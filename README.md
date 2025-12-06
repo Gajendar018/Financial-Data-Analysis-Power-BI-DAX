@@ -48,8 +48,7 @@ This analysis is built using four integrated datasets:
 - Power BI  
 - DAX  
 - Power Query  
-- Excel  
-
+  
 ---
 
 ## 📄 File Included
